@@ -16,7 +16,7 @@ Official GitHub repository for the paper: Tyler Fitzsimmons and Adam Czajka, "Gh
 While the Pepper’s Ghost illusion is a 19th-century optical technique, we found that this forgotten gimmick exposes vulnerabilities in modern face recognition systems. This paper introduces the ”Ghost Attack”: a physical attack that repurposes this classic illusion using low-cost, free-space hardware and a transparent medium to project high-resolution facial data into physical 3D space. We show in the paper that despite relying on centuries-old optical principles, this new attack type simultaneously breaks three components of modern facial recognition systems (FRS): (a) the face matcher, (b) the presentation attack detection module, and (c) the morphing attack detection component, resulting in high impersonation success rates against state-of-the-art algorithms without triggering presentation or morphing defenses. These findings reveal a significant blind spot in current biometric systems, which fail to account for transparent projections and evolving physical attack vectors. To support further research, we are offering the dataset of face images of 100 identities, re-captured with and without ”ghost” projections as a new benchmark representing a novel attack for face recognition.
 
 <p align="center">
-  <img src="Freespace_attack.png" width="500" alt="Attack Setup Overview">
+  <img src="Freespace_attack_v2.png" width="500" alt="Attack Setup Overview">
 </p>
 
 <a name="datasets"/></a>
