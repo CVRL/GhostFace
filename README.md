@@ -31,13 +31,13 @@ Our subset was curated to ensure demographic diversity across gender, age, and r
 
 
 <p align="center"> 
-  <img src="02463d570.jpg" width="125">
-  <img src="04213d334.jpg" width="125">
-  <img src="02463_frame_000000.png" width="125">
-  <img src="02463_frame_000160.png" width="125">
-  <img src="02463_frame_000200.png" width="125">
-  <img src="02463_frame_000300.png" width="125">
-  <img src="02463_frame_000400.png" width="125">
+  <img src="02463d570.jpg" width="120">
+  <img src="04213d334.jpg" width="120">
+  <img src="02463_frame_000000.png" width="120">
+  <img src="02463_frame_000160.png" width="120">
+  <img src="02463_frame_000200.png" width="120">
+  <img src="02463_frame_000300.png" width="120">
+  <img src="02463_frame_000400.png" width="120">
   <br>
   <i>Attack transition: genuine (a), morph (b) and samples at SNR=1 (c), SNR=1.4 (d), SNR=2 (e), SNR=5 (f), and SNR=10 (g)</i>
 </p>
