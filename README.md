@@ -33,11 +33,11 @@ Our subset was curated to ensure demographic diversity across gender, age, and r
 <p align="center"> 
   <img src="02463d570.jpg" width="120">
   <img src="04213d334.jpg" width="120">
-  <img src="02463_frame_000000.png" width="120">
-  <img src="02463_frame_000160.png" width="120">
-  <img src="02463_frame_000200.png" width="120">
-  <img src="02463_frame_000300.png" width="120">
-  <img src="02463_frame_000400.png" width="120">
+  <img src="02463_frame_000000.png" width="100">
+  <img src="02463_frame_000160.png" width="100">
+  <img src="02463_frame_000200.png" width="100">
+  <img src="02463_frame_000300.png" width="100">
+  <img src="02463_frame_000400.png" width="100">
   <br>
   <i>Attack transition: genuine (a), morph (b) and samples at SNR=1 (c), SNR=1.4 (d), SNR=2 (e), SNR=5 (f), and SNR=10 (g)</i>
 </p>
@@ -51,12 +51,14 @@ Researchers interested in obtaining a copy of the data associated with the paper
 ### Citation
 
 If you find this work useful in your research, please cite the following paper:
+
+ArXiv version:
 ```
-@inproceedings{fitzsimmonsWACV2027,
-      title={Ghost Attack: Using 19th-Century Illusions to Fool 21st-Century Biometrics}, 
-      author={Tyler Fitzsimmons and Adam Czajka},
-      year={2027},
-      booktitle={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Orlando, Florida, January 4-8, 2027},
+@article{fitzsimmons2026ghost,
+  title     = {Ghost Attack: Using 19th-Century Illusions to Fool 21st-Century Biometrics},
+  author    = {Fitzsimmons, Tyler and Czajka, Adam},
+  journal   = {arXiv preprint arXiv:2610.24238},
+  year      = {2026}
 }
 ```
 
